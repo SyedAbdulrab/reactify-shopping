@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Boss",
+        "price": 499999.99,
+        "imgUrl": "/imgs/mehran.png"
+      },
+    
+      {
+        "id": 3,
+        "name": "cooker",
+        "price": 13.99,
+        "imgUrl": "/imgs/cooker.png"
+      },
+      {
+        "id": 4,
+        "name": "Rolls Royce",
+        "price": 34000000,
+        "imgUrl": "/imgs/rollsroyce.png"
+      },
+      {
+        "id": 5,
+        "name": "pepsi zero",
+        "price": 3.99,
+        "imgUrl": "/imgs/pepsi.jpg"
+      },
+     
+    {
+      "id": 6,
+      "name": "Banana",
+      "price": 1.05,
+      "imgUrl": "/imgs/banana.jpg"
+    }
+    
+  ]
